@@ -12,20 +12,6 @@ Track Progress: Visually track my journey and improvement in problem-solving ove
 
 Showcase Skills: Serve as a public portfolio demonstrating my coding abilities and dedication to continuous learning.
 
-Repository Structure
-Solutions are organized to be easy to navigate. I plan to use the following structure:
-
-├── [Topic_Name_1]
-│   ├── [Problem_Name_1]/
-│   │   └── solution.cpp
-│   ├── [Problem_Name_2]/
-│   │   └── solution.cpp
-│   └── ...
-├── [Topic_Name_2]
-│   └── ...
-└── README.md
-
-Each solution folder will contain the code, along with comments explaining the logic, time complexity, and space complexity.
 
 How to Use
 If you're interested in my journey, feel free to explore the solutions and provide any constructive feedback.
